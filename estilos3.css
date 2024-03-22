@@ -1,0 +1,14 @@
+.contenedor{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.txt{
+    margin-left:15px ;
+}
+
+
+.imagen{
+    width: 350px;
+    height: 250px;
+}

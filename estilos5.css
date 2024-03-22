@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 2%;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: justify;
+
+}
+.titulo{
+    padding: 6px;
+    font-family: fantasy;
+}
+
+.photo{
+    text-align: center;
+  
+}

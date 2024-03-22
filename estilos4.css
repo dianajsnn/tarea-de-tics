@@ -1,0 +1,27 @@
+*{
+    padding:0 ;
+    margin: 10px;
+}
+ h1{
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+ }
+ img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+
+ }
+ .contenido{
+    display: flex;
+    margin: 5%;
+
+ }
+ .secciones{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+ }
